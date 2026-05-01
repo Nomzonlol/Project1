@@ -1,4 +1,3 @@
-# Final-Class-Portfolio
 Project 1 
 
 This project involves the comprehensive data analysis of air quality conditions across Nebraska. Following a Request for Proposals (RFP) by the UNMC Water, Climate and Health Group, our engineering firm has been tasked with processing, organizing, and summarizing a large-scale dataset collected via AirPurple monitors. The primary goal is to provide the UNMC working group—consisting of health professionals, environmental scientists, and engineers—with actionable insights into how air pollution may be impacting human health in the region. The details of the files in this project can be found below.
